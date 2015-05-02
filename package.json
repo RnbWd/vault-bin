@@ -1,0 +1,46 @@
+{
+  "name": "vault-bin",
+  "description": "vault-bin",
+  "version": "0.0.1",
+  "author": {
+    "name": "David Wisner",
+    "email": "dwisner6@gmail.com",
+    "url": "http://rnbwd.com"
+  },
+  "bin": {
+    "vault": "cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/rnbwd/vault-bin/issues"
+  },
+  "dependencies": {
+    "bin-wrapper": "^3.0.1",
+    "logalot": "^2.1.0"
+  },
+  "devDependencies": {
+    "ava": "0.0.4",
+    "bin-check": "^1.0.0"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "lib"
+  ],
+  "homepage": "https://github.com/rnbwd/vault-bin",
+  "keywords": [
+    "rnbwd",
+    "vault-bin"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rnbwd/vault-bin.git"
+  },
+  "scripts": {
+    "postinstall": "node lib/install.js",
+    "test": "npm run postinstall && node test.js"
+  }
+}
