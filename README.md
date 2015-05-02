@@ -6,10 +6,16 @@ vault-bin
 
 > Binary wrapper for [vault](https://www.vaultproject.io/) - I'm not quite sure what it is yet but I'm sure there's plenty of info on it's website :)
 
-## Usage
+## CLI
+
 ```bash
-npm install -g vault-bin
+$ npm install -g vault-bin
 ```
+```bash
+$ vault -h
+```
+
+## API
 
 ``` js
 var vault-bin = require('vault-bin')
