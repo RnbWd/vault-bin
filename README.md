@@ -20,6 +20,7 @@ $ vault -h
 ``` js
 var vault-bin = require('vault-bin')
 ```
+
 ## License
 
 MIT
