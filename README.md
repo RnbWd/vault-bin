@@ -4,7 +4,7 @@
 
 [![NPM](https://nodei.co/npm/vault-bin.png?downloads=true)](https://nodei.co/npm/vault-bin/)
 
-Here is the source of all available [downloads](https://www.vaultproject.io/downloads.html). Please submit pull request or issue if a binary doesn't work on a supported platform.
+Here is the source of all available [downloads](https://www.vaultproject.io/downloads.html). Please submit pull request or issue if a binary doesn't work on a supported platform. Currently supports version 0.1.1.
 
 ## CLI
 

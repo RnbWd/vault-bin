@@ -42,5 +42,6 @@
   "scripts": {
     "postinstall": "node lib/install.js",
     "test": "npm run postinstall && node test.js"
-  }
+  },
+  "vaultVersion": "0.1.1"
 }
