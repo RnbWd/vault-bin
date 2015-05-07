@@ -1,8 +1,4 @@
-vault-bin
----
-
-[![Build Status](https://img.shields.io/travis/RnbWd/vault-bin.svg?style=flat-square)](https://travis-ci.org/RnbWd/vault-bin)
-[![Dependency Status](https://img.shields.io/david/rnbwd/vault-bin.svg?style=flat-square)](https://david-dm.org/rnbwd/vault-bin)
+# vault-bin [![Build Status](https://img.shields.io/travis/RnbWd/vault-bin.svg?style=flat-square)](https://travis-ci.org/RnbWd/vault-bin)[![Dependency Status](https://img.shields.io/david/rnbwd/vault-bin.svg?style=flat-square)](https://david-dm.org/rnbwd/vault-bin)
 
 > Binary wrapper for [vault](https://www.vaultproject.io/) - a tool for managing secrets. The website has plenty of info :)
 
